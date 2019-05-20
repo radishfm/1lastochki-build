@@ -3,10 +3,3 @@ Disallow:/css/
 Disallow:/fonts/
 Disallow:/img/
 Disallow:/js/
-
-User-agent:Yandex
-Disallow:/css/
-Disallow:/fonts/
-Disallow:/img/
-Disallow:/js/
-Host:1lastochki.ru
